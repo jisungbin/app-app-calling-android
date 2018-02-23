@@ -25,14 +25,14 @@ Next, download the Sinch Android SDK from <a href="https://www.sinch.com/downloa
      <li>Copy the entire libs folder to your project’s root directory</li>
 	<li>Open build.gradle (Module) in allprojects  >  repositories , add these lines 
 
-       <p style="color:grey;">allprojects {
+       allprojects {
            repositories {
-               jcenter()</p>
+               jcenter()
                flatDir {
                    dirs '/libs'
                }
-           <p style="color:grey;">}
-       }</p></li>
+           }
+       }</li>
 	<li>Finally, open build.gradle (Project) in dependencies and add this line:
 
       compile fileTree(dir: 'libs', include: ['*.jar'])
