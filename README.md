@@ -6,8 +6,6 @@ This tutorial will walk you through building a simple Android VoIP calling app. 
        
 The completed source code for this tutorial is available at <a href="http://www.github.com/sinch/app-app-calling-android" target="_blank">github.com/sinch/app-app-calling-android</a>.</p>
 
-This covers building an Android app to app system. If you are looking for app to phone, check out our [other tutorial here](https://www.sinch.com/tutorials/app-to-phone-calling-android/).
-
 ##Setup
        
 First, you will need to create a new project in Android Studio. (You can use Eclipse if you like, but this tutorial was built and tested in Android Studio.)
