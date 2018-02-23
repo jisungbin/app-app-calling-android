@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\.android\build-cache\e4afc26c68f36d7dbff3654bccc47e025611ed46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="726054b6a6c86343d9b2c262e5a1dfbb0ced4b74">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\app-app-calling-android\app\build\intermediates\pre-dexed\debug\classes_dda2696b831b970ad93665569ee6b7397f561ca2.jar" />
+    </item>
+
+</items>
