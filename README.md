@@ -23,19 +23,21 @@ Hold onto the key and secret from this app; you will use them in just a few minu
 Next, download the Sinch Android SDK from <a href="https://www.sinch.com/downloads/">www.sinch.com/downloads</a>. To add the Sinch SDK to your project:
 <ol>
      <li>Copy the entire libs folder to your project’s root directory</li>
-	<li>Open build.gradle (Module) in allprojects  >  repositories , add these lines 
-
-       allprojects {
+	<li>Open build.gradle (Module) in allprojects  >  repositories , add these lines
+		
+		allprojects {
            repositories {
                jcenter()
                flatDir {
                    dirs '/libs'
-               }
+		       }
            }
-       }</li>
+       }   
+</li>
 	<li>Finally, open build.gradle (Project) in dependencies and add this line:
 
       compile fileTree(dir: 'libs', include: ['*.jar'])
+
 </li>
   </ol>
 
