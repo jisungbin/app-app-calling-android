@@ -24,9 +24,9 @@ import java.util.List;
 
 public class CallActivity extends AppCompatActivity {
 
-    private static final String APP_KEY = "0799ac52-aa22-4c6e-85a7-53b1c9a041ab";
-    private static final String APP_SECRET = "A1j8Zp811EqX/WEtBDB7JA==";
-    private static final String ENVIRONMENT = "clientapi.sinch.com";
+    private static final String APP_KEY = "enter-application-key";
+    private static final String APP_SECRET = "enter-application-secret";
+    private static final String ENVIRONMENT = "sandbox.sinch.com";
 
     private Call call;
     private TextView callState;
