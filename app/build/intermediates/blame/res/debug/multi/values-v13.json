@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
         "map": [
             {

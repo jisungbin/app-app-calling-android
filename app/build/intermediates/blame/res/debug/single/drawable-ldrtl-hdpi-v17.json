@@ -4,11 +4,23 @@
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

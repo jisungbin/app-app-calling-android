@@ -4,6 +4,14 @@
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\anim\\abc_popup_exit.xml"
     },
@@ -16,6 +24,10 @@
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
@@ -24,8 +36,36 @@
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
         "merged": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\alius\\.android\\build-cache\\7d95054afab01ff3599c9627f2d8afa07220c67e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zaeem\\Documents\\GitHub\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Zaeem\\.android\\build-cache\\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\alius\\Documents\\GitHub\\master\\app-app-calling-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
