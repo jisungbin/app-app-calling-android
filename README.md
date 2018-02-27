@@ -32,7 +32,7 @@ Next, download the Sinch Android SDK from <a href="https://www.sinch.com/downloa
 </li>
 	<li>Finally, open build.gradle (Project) in dependencies and add this line:
 
-      compile fileTree(dir: 'libs', include: ['*.jar'])
+          compile(name:'sinch-android-rtc', version:'+', ext:'aar')
 
 </li>
   </ol>
