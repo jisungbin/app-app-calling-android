@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:6:9-51
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:15:5-32:19
+MERGED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\d1d5b28e62ad00c5baf36ba34b73e842d64a0478\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\077bcba84d108e2d3cbcab254b1a873c8315cf52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\33bcd12ef3fd0fcb2ebaaea9d95447e546a26299\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\6dd70484b400185537bc1968abfd634e543756dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\f1f43d3c8397cede9673178d7f7127f1437fa20f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\5e8a616c4e3f4c710c0426f85797623816176a4d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\a121c0b83ddbde17590d7923cdc14fe4f0d2e546\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\f841fe1bde49cc0dfcfcddb715aa94b326760f1a\output\AndroidManifest.xml:29:5-20
+	android:allowBackup
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:17:9-38
+	android:theme
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.sinch.apptoappcall.LoginActivity
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:21:13-35
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:20:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.sinch.apptoappcall.CallActivity
+ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:29:13-40
+	android:name
+		ADDED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml:28:13-41
+uses-sdk
+INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\d1d5b28e62ad00c5baf36ba34b73e842d64a0478\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\077bcba84d108e2d3cbcab254b1a873c8315cf52\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\33bcd12ef3fd0fcb2ebaaea9d95447e546a26299\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\6dd70484b400185537bc1968abfd634e543756dd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\f1f43d3c8397cede9673178d7f7127f1437fa20f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\5e8a616c4e3f4c710c0426f85797623816176a4d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\a121c0b83ddbde17590d7923cdc14fe4f0d2e546\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\f841fe1bde49cc0dfcfcddb715aa94b326760f1a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\src\main\AndroidManifest.xml
+service#com.sinch.android.rtc.internal.client.fcm.InstanceIDTokenService
+ADDED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:12:9-16:19
+	android:name
+		ADDED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:12:18-97
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:13:13-15:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:14:17-80
+	android:name
+		ADDED from [:sinch-android-rtc:3.12.3] C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\AndroidManifest.xml:14:25-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\d1d5b28e62ad00c5baf36ba34b73e842d64a0478\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\077bcba84d108e2d3cbcab254b1a873c8315cf52\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\33bcd12ef3fd0fcb2ebaaea9d95447e546a26299\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\6dd70484b400185537bc1968abfd634e543756dd\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\f1f43d3c8397cede9673178d7f7127f1437fa20f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\5e8a616c4e3f4c710c0426f85797623816176a4d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\a121c0b83ddbde17590d7923cdc14fe4f0d2e546\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\f841fe1bde49cc0dfcfcddb715aa94b326760f1a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Zaeem\.android\build-cache\db70ad60bacef8c2813f1ff0aee907e21c19f2f3\output\AndroidManifest.xml:26:9-47

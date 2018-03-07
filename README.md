@@ -21,12 +21,20 @@ To generate an API key and secret, create an app in the <a href="http://www.sinc
 Hold onto the key and secret from this app; you will use them in just a few minutes.
 
 Next, download the Sinch Android SDK from <a href="https://www.sinch.com/downloads/">www.sinch.com/downloads</a>. To add the Sinch SDK to your project:
+<ol>
+     <li>Copy the entire libs folder to your project’s app folder</li>
+	<li>Open build.gradle (Module) in allprojects  >  repositories , add these lines
+		
+               flatDir {
+                   dirs '/libs'
+		       }
+  
+</li>
+	<li>Finally, open build.gradle (Project) in dependencies and add this line:
 
-  <ol>
-      <li>Copy the entire libs folder to your project’s root directory</li>
-      <li>Right-click the jar-files and choose “Add As Library”</li>
-      <li>Create a new folder under src/main and name it jniLibs</li>
-      <li>Move the armeabi and armeabi-v7a folders into the newly created jniLibs folder</li>
+          compile(name:'sinch-android-rtc', version:'+', ext:'aar')
+
+</li>
   </ol>
 
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zaeem\.android\build-cache\533b85bef4b7cb40bc91182c9e57b072d52e546b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="726054b6a6c86343d9b2c262e5a1dfbb0ced4b74">
+        <dex dex="C:\Users\Zaeem\Documents\GitHub\app-app-calling-android\app\build\intermediates\pre-dexed\debug\classes_9bcef7421749078f651584ccf321fc53ca180ca2.jar" />
+    </item>
+
+</items>
