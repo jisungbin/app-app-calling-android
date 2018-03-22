@@ -1,4 +1,4 @@
-#Build a Simple Android VoIP Calling App With Sinch
+# Build a Simple Android VoIP Calling App With Sinch
 
 This tutorial will walk you through building a simple Android VoIP calling app. When you are finished, it will look something like this:</p>
 
